@@ -9,7 +9,7 @@ import Foundation
 
 struct Item: Codable {
     let id: Int
-    let title: String // Match the JSON key "title" instead of "name"
+    let title: String
 }
 
 
